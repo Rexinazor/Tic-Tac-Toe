@@ -3,7 +3,4 @@
 
 ## Preview
 [![Run on Repl.it](https://replit.com/badge/github/Rexinazor/Tic-Tac-Toe)](https://replit.com/@DivyashSingh/Tic-Tac-Toe)
-
-<p align="center">
-  <img src="https://telegra.ph/file/db226a4be9afe596bb42f.mp4">
-</p>
+[Session](https://telegra.ph/file/db226a4be9afe596bb42f.mp4)
